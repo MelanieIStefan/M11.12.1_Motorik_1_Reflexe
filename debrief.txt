@@ -2,3 +2,4 @@ Next year: Cleaner version of actin-myosin picture
 Spell check (at the moment firefox crashes whenever I try to install languagetool)
 Double check image credits
 Use Gizmo
+NIcer pictures for illustration, e.g. Kleinhirn
