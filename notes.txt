@@ -1,7 +1,8 @@
 57:22
 
 
-
+\begin{itemize}
+    \item 
 - Aufbau und Funktionsweise von Skelettmuskeln erklären
 - die Messung von Ausdehnung durch die Muskelspindel erklären
 - die Funktion des Golgi-Sehnen-Organs erklären
@@ -10,3 +11,8 @@
 - Aufbau und Vernetzung der Schichten des Kleinhirnkortex erlöutern
 
 - den vestibulo-okulären Reflex erklären
+
+\end{itemize}
+
+
+- 
