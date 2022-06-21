@@ -10,6 +10,7 @@
 - Nuclei des Kleinhirns benennen und ihre Funktion erklären
 - Aufbau und Vernetzung der Schichten des Kleinhirnkortex erlöutern
 
+Reflexe der Skelettmuskulatur erklären 
 - den vestibulo-okulären Reflex erklären
 
 \end{itemize}
