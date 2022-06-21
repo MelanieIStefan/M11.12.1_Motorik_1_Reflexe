@@ -3,3 +3,4 @@ Spell check (at the moment firefox crashes whenever I try to install languagetoo
 Double check image credits
 Use Gizmo
 NIcer pictures for illustration, e.g. Kleinhirn
+Gemeinfreie Bilder e.g. https://de.wikipedia.org/wiki/Kleinhirn#/media/Datei:Kleinhirn.png
